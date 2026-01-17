@@ -4,25 +4,30 @@
 [![CTO at Anviro](https://img.shields.io/badge/CTO%20at%20Anviro-111827?style=for-the-badge)](https://anviro.net)
 [![Founder at Finviro](https://img.shields.io/badge/Founder%20at%20Finviro-7C3AED?style=for-the-badge)](https://finviro.app)
 
-𝙎𝙪𝙢𝙢𝙖 𝘾𝙪𝙢 𝙇𝙖𝙪𝙙𝙚 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙜𝙧𝙖𝙙𝙪𝙖𝙩𝙚 𝙛𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝘼𝙄-𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙥𝙧𝙤𝙙𝙪𝙘𝙩𝙨 𝙖𝙣𝙙 𝙨𝙘𝙖𝙡𝙖𝙗𝙡𝙚 𝙛𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 𝙨𝙮𝙨𝙩𝙚𝙢𝙨. 𝙋𝙧𝙚𝙫𝙞𝙤𝙪𝙨𝙡𝙮 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙖𝙩 𝙎𝙠𝙮𝙡𝙞𝙣𝙚 𝘼𝙘𝙖𝙙𝙚𝙢𝙞𝙘𝙨.
+Summa Cum Laude Computer Science graduate focused on building AI-powered products and scalable full-stack systems. Previously Full Stack Engineer at Skyline Academics.
 
-𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙙𝙞𝙣𝙜 𝘼𝙄 𝙞𝙣𝙞𝙩𝙞𝙖𝙩𝙞𝙫𝙚𝙨 𝙖𝙣𝙙 𝙥𝙧𝙤𝙙𝙪𝙘𝙩 𝙨𝙩𝙧𝙖𝙩𝙚𝙜𝙮 𝙖𝙘𝙧𝙤𝙨𝙨 𝘼𝙣𝙫𝙞𝙧𝙤 𝙖𝙣𝙙 𝙁𝙞𝙣𝙫𝙞𝙧𝙤.
+Currently leading AI initiatives and product strategy across Anviro and Finviro.
 
-## 𝙎𝙠𝙞𝙡𝙡𝙨
+## Skills
 
-| 𝘿𝙤𝙢𝙖𝙞𝙣 | 𝙎𝙩𝙖𝙘𝙠 |
-| --- | --- |
-| 𝘼𝙄/𝙇𝙇𝙈 | Agno, LangChain, LangSmith, MCP |
-| 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 | Node.js, Python, Django |
-| 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 | React |
-| 𝘾𝙡𝙤𝙪𝙙/𝘿𝙚𝙫𝙊𝙥𝙨 | AWS, Docker |
-| 𝙇𝙚𝙖𝙙𝙚𝙧𝙨𝙝𝙞𝙥 | Product strategy, technical execution, team leadership |
+[![Agno](https://img.shields.io/badge/Agno-111827?style=flat&logo=ai&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat&logo=chainlink&logoColor=white)](#)
+[![LangSmith](https://img.shields.io/badge/LangSmith-111827?style=flat&logo=datadog&logoColor=white)](#)
+[![MCP](https://img.shields.io/badge/MCP-111827?style=flat)](#)
 
-## 𝙒𝙤𝙧𝙠 𝙃𝙞𝙜𝙝𝙡𝙞𝙜𝙝𝙩𝙨
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 
-**End-to-end AI delivery** — Designed and shipped AI features using Agno, LangChain, and LangSmith.  
-**Full-stack systems** — Built production apps with React, Node.js, and Python/Django.  
-**Cloud deployment** — Deployed and scaled services on AWS with Docker and MCP integrations.
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
+
+## Work Highlights
+
+- AI workflow delivery with Agno, LangChain, and LangSmith.
+- Full-stack production systems using React, Node.js, and Python/Django.
+- AWS deployments with Docker and MCP integrations.
 
 ## Contact
 
