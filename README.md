@@ -1,8 +1,10 @@
 # Waqas Khan
 
-AI Engineer
+AI Engineer | CTO at Anviro | Founder at Finviro
 
-Summa Cum Laude graduate in Computer Science (Bachelors). Former Full Stack Engineer at Skyline Academics. Currently CTO at Anviro and Founder at Finviro.
+Summa Cum Laude Computer Science graduate focused on building AI-powered products and scalable full-stack systems. Previously Full Stack Engineer at Skyline Academics.
+
+Currently leading AI initiatives and product strategy across Anviro and Finviro.
 
 ## Skills
 
