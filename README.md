@@ -6,19 +6,21 @@
 
 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙙𝙞𝙣𝙜 𝘼𝙄 𝙞𝙣𝙞𝙩𝙞𝙖𝙩𝙞𝙫𝙚𝙨 𝙖𝙣𝙙 𝙥𝙧𝙤𝙙𝙪𝙘𝙩 𝙨𝙩𝙧𝙖𝙩𝙚𝙜𝙮 𝙖𝙘𝙧𝙤𝙨𝙨 𝘼𝙣𝙫𝙞𝙧𝙤 𝙖𝙣𝙙 𝙁𝙞𝙣𝙫𝙞𝙧𝙤.
 
-## Skills
+## 𝙎𝙠𝙞𝙡𝙡𝙨
 
-- **AI Engineering:** Agno, LangChain, LangSmith, MCP
-- **Backend:** Node.js, Python, Django
-- **Frontend:** React
-- **Cloud/DevOps:** AWS, Docker
-- **Leadership:** Technical strategy, product execution, team guidance
+| 𝘿𝙤𝙢𝙖𝙞𝙣 | 𝙎𝙩𝙖𝙘𝙠 |
+| --- | --- |
+| 𝘼𝙄/𝙇𝙇𝙈 | Agno, LangChain, LangSmith, MCP |
+| 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 | Node.js, Python, Django |
+| 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 | React |
+| 𝘾𝙡𝙤𝙪𝙙/𝘿𝙚𝙫𝙊𝙥𝙨 | AWS, Docker |
+| 𝙇𝙚𝙖𝙙𝙚𝙧𝙨𝙝𝙞𝙥 | Product strategy, technical execution, team leadership |
 
-## Work Highlights
+## 𝙒𝙤𝙧𝙠 𝙃𝙞𝙜𝙝𝙡𝙞𝙜𝙝𝙩𝙨
 
-- Built AI workflow pipelines and evaluation loops using Agno, LangChain, and LangSmith.
-- Led full-stack delivery across React, Node.js, and Python/Django for production systems.
-- Deployed and scaled services on AWS with Dockerized infrastructure and MCP integrations.
+**End-to-end AI delivery** — Designed and shipped AI features using Agno, LangChain, and LangSmith.  
+**Full-stack systems** — Built production apps with React, Node.js, and Python/Django.  
+**Cloud deployment** — Deployed and scaled services on AWS with Docker and MCP integrations.
 
 ## Contact
 
