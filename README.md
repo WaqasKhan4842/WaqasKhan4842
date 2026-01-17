@@ -8,16 +8,17 @@
 
 ## Skills
 
-- AI/ML (Agno, LangChain, LangSmith)
-- Backend: Node.js, Python, Django
-- Frontend: React
-- Cloud/DevOps: AWS, Docker, MCP
+- **AI Engineering:** Agno, LangChain, LangSmith, MCP
+- **Backend:** Node.js, Python, Django
+- **Frontend:** React
+- **Cloud/DevOps:** AWS, Docker
+- **Leadership:** Technical strategy, product execution, team guidance
 
 ## Work Highlights
 
-- Built and integrated AI workflows using Agno, LangChain, and LangSmith.
-- Delivered full-stack products with React, Node.js, and Python/Django.
-- Shipped cloud deployments on AWS with Docker and MCP.
+- Built AI workflow pipelines and evaluation loops using Agno, LangChain, and LangSmith.
+- Led full-stack delivery across React, Node.js, and Python/Django for production systems.
+- Deployed and scaled services on AWS with Dockerized infrastructure and MCP integrations.
 
 ## Contact
 
