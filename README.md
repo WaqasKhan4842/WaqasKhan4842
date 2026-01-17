@@ -6,12 +6,18 @@ Summa Cum Laude graduate in Computer Science (Bachelors). Former Full Stack Engi
 
 ## Skills
 
-- AI/ML
-- Full-stack engineering
-- Technical leadership
-- Product strategy
+- AI/ML (Agno, LangChain, LangSmith)
+- Backend: Node.js, Python, Django
+- Frontend: React
+- Cloud/DevOps: AWS, Docker, MCP
+
+## Work Highlights
+
+- Built and integrated AI workflows using Agno, LangChain, and LangSmith.
+- Delivered full-stack products with React, Node.js, and Python/Django.
+- Shipped cloud deployments on AWS with Docker and MCP.
 
 ## Contact
 
-- Email: [waqas.atworkalways@gmail.com](mailto:waqas.atworkalways@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/waqas-safi/
+[![Email](https://cdn.jsdelivr.net/npm/simple-icons@9/icons/gmail.svg)](mailto:waqas.atworkalways@gmail.com)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@9/icons/linkedin.svg)](https://www.linkedin.com/in/waqas-safi/)
