@@ -19,5 +19,5 @@ Summa Cum Laude graduate in Computer Science (Bachelors). Former Full Stack Engi
 
 ## Contact
 
-[![Email](https://cdn.jsdelivr.net/npm/simple-icons@9/icons/gmail.svg)](mailto:waqas.atworkalways@gmail.com)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@9/icons/linkedin.svg)](https://www.linkedin.com/in/waqas-safi/)
+[![Email](https://img.shields.io/badge/Email-waqas.atworkalways%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:waqas.atworkalways@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-waqas--safi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-safi/)
