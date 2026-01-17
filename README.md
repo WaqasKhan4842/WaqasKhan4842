@@ -1,16 +1,17 @@
-## Hi there 👋
+# Waqas Khan
 
-<!--
-**WaqasKhan4842/WaqasKhan4842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer
 
-Here are some ideas to get you started:
+Summa Cum Laude graduate in Computer Science (Bachelors). Former Full Stack Engineer at Skyline Academics. Currently CTO at Anviro and Founder at Finviro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- AI/ML
+- Full-stack engineering
+- Technical leadership
+- Product strategy
+
+## Contact
+
+- Email: [waqas.atworkalways@gmail.com](mailto:waqas.atworkalways@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/waqas-safi/
